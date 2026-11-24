@@ -3,6 +3,8 @@
 An end-to-end Data Analytics capstone project focused on cleaning, modeling, and visualizing hospital operations data to track patient admissions, bed occupancy, waiting times, billing, and overall patient satisfaction.
 
 ---
+## 📊 Dashboard Preview
+![Healthcare Dashboard](Dashboard%20look.png)
 
 ## 📂 Repository Contents
 
